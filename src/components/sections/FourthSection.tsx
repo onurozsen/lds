@@ -32,10 +32,10 @@ export default function FourthSection() {
                     {t("contact_email_label")}
                   </div>
                   <a
-                    href="mailto:info@lds.ly"
+                    href="mailto:info@ldsco.ly"
                     className="text-lg md:text-xl  hover:text-[#FFFFFF] text-[#FFFFFF]"
                   >
-                    info@lds.ly
+                    info@ldsco.ly
                   </a>
                 </div>
               </div>
