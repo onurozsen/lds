@@ -47,10 +47,23 @@ const en: Dict = {
         "Tech Policy & Regulatory Advisory",
     services_item6_desc:
         "We advise governments on digital policies, fintech laws, cybersecurity, data protection, and safe innovation.",
+    services_item7_title:
+        "AI Adoption & AI-Native Solutions",
+    services_item7_desc:
+        "Accelerating innovation by applying AI to different public services, while investing in local talent, ethical frameworks, and infrastructure to ensure sustainable, trusted, and inclusive growth.",
+    services_item8_title:
+        "Rapid Impact Initiatives",
+    services_item8_desc:
+        "Helping authorities act faster with real-time data, analytics, and automation—reducing damage, protecting citizens, and restoring services.",
+    services_item9_title:
+        "Digital Competence Programs",
+    services_item9_desc:
+        "Comprehensive initiatives that build digital literacy and future-ready skills, empowering individuals to navigate, create, and innovate confidently in the digital world.",
+
 
     //Third Section
-    solutions_title_line1: "Shaping the Digital Future with",
-    solutions_title_emph: "Our Solutions",
+    solutions_title_line1: "Shaping the Digital Future",
+    solutions_title_emph: "with Our Solutions",
     solutions_subtitle:
         "From concept to deployment, discover products that transform operations and accelerate digital growth.",
 
@@ -90,6 +103,24 @@ const en: Dict = {
     solutions_card4_tag1: "Competency Map",
     solutions_card4_tag2: "KPI Tracking",
     solutions_card4_tag3: "Behavior Analysis",
+
+    solutions_card5_name: "",
+    solutions_card5_title: "Hiring Made Smarter (an RDC Partner solution)",
+    solutions_card5_desc: "An AI-powered digital assistant by RDC Partner, designed for recruiters and HR professionals. It offers natural language candidate search, interprets interview transcripts, and delivers meaningful insights with speed and precision, streamlining talent acquisition and enhancing decision-making.",
+    solutions_card5_tag1: "HireAI",
+    solutions_card5_tag2: "TalentIQ",
+    solutions_card5_tag3: "SmartHire",
+    solutions_card5_tag4: "Recruitly",
+    solutions_card5_tag5: "InsightAI",
+
+    solutions_card6_name: "",
+    solutions_card6_title: "Facility Management System (an RDC Partner solution)",
+    solutions_card6_desc: "The facility management platform is designed for campuses, complexes, and large-scale sites, offering a unified environment to manage tenants, visitors, assets, staff, and payments. Its flexible architecture allows it to function independently or integrate with existing systems, improving operational efficiency, oversight, and the overall stakeholder experience.",
+    solutions_card6_tag1: "Tenant Management",
+    solutions_card6_tag2: "Facility Management",
+    solutions_card6_tag3: "Visitor Management",
+    solutions_card6_tag4: "Mobile",
+
 
     //Fourth Section
     contact_title: "Get in touch",
@@ -147,10 +178,17 @@ const ar: Dict = {
         "استشارات السياسات التقنية والتنظيم",
     services_item6_desc:
         "نقدّم المشورة للحكومات بشأن السياسات الرقمية، قوانين التكنولوجيا المالية، الأمن السيبراني، حماية البيانات، والابتكار الآمن.",
+    services_item7_title: "تبني الذكاء الاصطناعي والحلول المعتمدة عليه",
+    services_item7_desc: "تسريع الابتكار من خلال تطبيق الذكاء الاصطناعي على مختلف الخدمات العامة، مع الاستثمار في المواهب المحلية والأطر الأخلاقية والبنية التحتية لضمان نمو مستدام وموثوق وشامل.",
+    services_item8_title: "مبادرات الأثر السريع",
+    services_item8_desc: "مساعدة السلطات على التحرك بسرعة أكبر باستخدام البيانات الفورية والتحليلات والأتمتة، مما يقلل من الأضرار ويحمي المواطنين ويعيد الخدمات.",
+    services_item9_title: "برامج الكفاءة الرقمية",
+    services_item9_desc: "مبادرات شاملة لبناء الثقافة الرقمية والمهارات المستقبلية، وتمكين الأفراد من التنقل والإبداع والابتكار بثقة في العالم الرقمي.",
+
 
     //Third Section
-    solutions_title_line1: "تشكيل المستقبل الرقمي عبر",
-    solutions_title_emph: "حلولنا",
+    solutions_title_line1: "نشكّل المستقبل الرقمي",
+    solutions_title_emph: "بفضل حلولنا",
     solutions_subtitle:
         "من المفهوم إلى النشر، اكتشف المنتجات التي تحول العمليات وتسرّع النمو الرقمي.",
 
@@ -189,6 +227,24 @@ const ar: Dict = {
     solutions_card4_tag1: "خريطة الكفاءات",
     solutions_card4_tag2: "تتبع مؤشرات الأداء",
     solutions_card4_tag3: "تحليل السلوك",
+
+    solutions_card5_name: "",
+    solutions_card5_title: "التوظيف بذكاء أكبر (حل من شريك RDC)",
+    solutions_card5_desc: "مساعد رقمي مدعوم بالذكاء الاصطناعي من شريك RDC، صُمم للمسؤولين عن التوظيف ومحترفي الموارد البشرية. يتيح البحث عن المرشحين بلغة طبيعية، ويفسر نصوص المقابلات، ويقدم رؤى ذات قيمة بسرعة ودقة، مما يبسط استقطاب المواهب ويحسن اتخاذ القرارات.",
+    solutions_card5_tag1: "التوظيف بالذكاء الاصطناعي",
+    solutions_card5_tag2: "ذكاء المواهب",
+    solutions_card5_tag3: "التوظيف الذكي",
+    solutions_card5_tag4: "التجنيد",
+    solutions_card5_tag5: "رؤى الذكاء الاصطناعي",
+
+    solutions_card6_name: "",
+    solutions_card6_title: "نظام إدارة المرافق (حل من شريك RDC)",
+    solutions_card6_desc: "تم تصميم منصة إدارة المرافق للمجمعات الجامعية والمجمعات السكنية والمواقع واسعة النطاق، حيث توفر بيئة موحدة لإدارة المستأجرين والزوار والأصول والموظفين والمدفوعات. تسمح بنيتها المرنة بالعمل بشكل مستقل أو الاندماج مع الأنظمة القائمة، مما يحسن الكفاءة التشغيلية والإشراف وتجربة جميع الأطراف المعنية.",
+    solutions_card6_tag1: "إدارة المستأجرين",
+    solutions_card6_tag2: "إدارة المرافق",
+    solutions_card6_tag3: "إدارة الزوار",
+    solutions_card6_tag4: "تطبيقات الجوال",
+
 
     //Fourth Section
     contact_title: "تواصل معنا",

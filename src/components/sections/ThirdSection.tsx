@@ -65,15 +65,42 @@ export default function ThirdSection() {
         t("solutions_card4_tag3"),
       ],
     },
+    {
+      cover: "/assets/solutions/fifth.svg",
+      logo: "/assets/solutions/logo/fifth.svg",
+      name: t("solutions_card5_name"),
+      title: t("solutions_card5_title"),
+      desc: t("solutions_card5_desc"),
+      tags: [
+        t("solutions_card5_tag1"),
+        t("solutions_card5_tag2"),
+        t("solutions_card5_tag3"),
+        t("solutions_card5_tag4"),
+        t("solutions_card5_tag5"),
+      ],
+    },
+    {
+      cover: "/assets/solutions/sixth.svg",
+      logo: "/assets/solutions/logo/sixth.svg",
+      name: t("solutions_card6_name"),
+      title: t("solutions_card6_title"),
+      desc: t("solutions_card6_desc"),
+      tags: [
+        t("solutions_card6_tag1"),
+        t("solutions_card6_tag2"),
+        t("solutions_card6_tag3"),
+        t("solutions_card6_tag4"),
+      ],
+    },
 
   ];
 
   return (
     <section id="products" className="relative bg-[#0b0b12] text-white py-16 md:py-24" dir={dir}>
-      <div className="mx-auto max-w-[1250px] px-4">
+      <div className="mx-auto max-w-[1440px] px-4">
         <div className="max-w-4xl">
           <h2 className="text-3xl md:text-4xl font-semibold leading-tight">
-            {t("solutions_title_line1")}{" "}
+            {t("solutions_title_line1")}<br />
             <span className="text-[#27C770]">{t("solutions_title_emph")}</span>
           </h2>
           <p className="mt-3 md:mt-4 text-sm md:text-base text-white/70 max-w-2xl">
@@ -84,9 +111,12 @@ export default function ThirdSection() {
         <div className="mt-8 md:mt-10 grid grid-cols-1 md:grid-cols-2 gap-6">
           {items.map((it, i) => (
             <article key={i} className="rounded-xl overflow-hidden bg-white/5">
-              <div className="relative">
+              <div>
                 <img src={it.cover} alt="" className="w-full h-56 md:h-64 object-cover" />
-                <div className="absolute left-0 right-0 bottom-0 px-4 md:px-5 py-3 flex items-center justify-between">
+              </div>
+
+              <div className="px-4 md:px-5 pb-5 pt-3">
+                <div className="py-3 flex items-center justify-between">
                   <div className="flex items-center gap-2">
                     <img src={it.logo} alt="" className="h-5 md:h-6 w-auto drop-shadow" />
                     <span className="text-sm md:text-base font-medium drop-shadow">{it.name}</span>
@@ -102,9 +132,6 @@ export default function ThirdSection() {
                     ))}
                   </div>
                 </div>
-              </div>
-
-              <div className="px-4 md:px-5 pb-5 pt-3">
                 <h3 className="text-lg md:text-xl font-medium text-[#FEFDFE]">{it.title}</h3>
                 <p className="mt-2 text-sm md:text-text-lg text-[#E3DFDF]">{it.desc}</p>
               </div>

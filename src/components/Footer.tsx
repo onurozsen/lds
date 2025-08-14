@@ -11,7 +11,7 @@ export default function Footer() {
 
     return (
         <footer className="bg-[#0b0b12] text-white" dir={dir}>
-            <div className="mx-auto max-w-[1250px] px-4 pt-12 pb-6">
+            <div className="mx-auto max-w-[1440px] px-4 pt-12 pb-6">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-md-8 gap-3 items-start">
                     <div>
                         <img src="/assets/footer-logo.svg" alt="LDS" className="h-16 w-auto" />

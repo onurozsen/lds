@@ -18,7 +18,7 @@ export default function FirstSection() {
 
 
       <div className="relative z-10 flex items-center justify-center min-h-[100vh]">
-        <div className="mx-auto max-w-[1250px] px-4 text-center">
+        <div className="mx-auto max-w-[1440px] px-4 text-center">
           <img
             src="/assets/big-lds-logo.svg"
             alt="LDS Logo"

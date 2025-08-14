@@ -11,7 +11,7 @@ export default function Header() {
 
     return (
         <header className="fixed top-4 left-0 right-0 z-50" dir={dir}>
-            <div className="mx-auto max-w-[1250px] px-4">
+            <div className="mx-auto max-w-[1440px] px-4">
                 <div className="rounded-2xl border border-white/15 bg-[#2D2D2D80] backdrop-blur shadow-[0_2px_30px_rgba(0,0,0,.35)]">
                     <div className="flex items-center justify-between px-4 md:px-6 py-2.5 text-white">
                         {/* Logo */}
@@ -58,8 +58,8 @@ export default function Header() {
                                     <button
                                         onClick={() => setLang("en")}
                                         className={`px-3 py-1 text-xs rounded-full transition ${lang === "en"
-                                                ? "bg-[#12B46E33] focus:outline-none border border-[#30DF93] text-white"
-                                                : "text-white/90 bg-[#2D2D2D80]"
+                                            ? "bg-[#12B46E33] focus:outline-none border border-[#30DF93] text-white"
+                                            : "text-white/90 bg-[#2D2D2D80]"
                                             }`}
                                     >
                                         EN
@@ -67,8 +67,8 @@ export default function Header() {
                                     <button
                                         onClick={() => setLang("ar")}
                                         className={`px-3 py-1 text-xs rounded-full transition ${lang === "ar"
-                                                ? "bg-[#12B46E33] focus:outline-none border border-[#30DF93] text-white"
-                                                : "text-white/90 bg-[#2D2D2D80]"
+                                            ? "bg-[#12B46E33] focus:outline-none border border-[#30DF93] text-white"
+                                            : "text-white/90 bg-[#2D2D2D80]"
                                             }`}
                                     >
                                         AR
