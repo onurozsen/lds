@@ -10,7 +10,7 @@ export default function Footer() {
     const year = new Date().getFullYear();
 
     return (
-        <footer className="bg-[#0b0b12] text-white" dir={dir}>
+        <footer className="bg-[#050211] text-white" dir={dir}>
             <div className="mx-auto max-w-[1440px] px-4 pt-12 pb-6">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-md-8 gap-3 items-start">
                     <div>
@@ -20,7 +20,7 @@ export default function Footer() {
                         </div>
                     </div>
 
-                    <div className="md:col-span-2 grid grid-cols-2 gap-8">
+                    <div className="md:col-span-2 grid grid-cols-3 gap-8">
                         <div>
                             <div className="text-sm md:text-lg font-semibold">
                                 {t("footer_company_title")}
@@ -58,6 +58,21 @@ export default function Footer() {
                                         {t("nav_products")}
                                     </a>
                                 </li>
+                                <li>
+                                    <a
+                                        href="#safe"
+                                        onClick={(e) => { e.preventDefault(); scrollToId("safe"); }}
+                                        className="hover:text-white text-[#FEFDFE] font-normal"
+                                    >
+                                        {t("nav_safe_cities")}
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div>
+                            <div className="text-sm font-normal mb-3">&nbsp;</div>
+                            <ul className="space-y-2 font-normal text-[#FEFDFE] text-sm md:text-lg mt-3 mt-md-12">
+
                                 <li>
                                     <a
                                         href="#contact"

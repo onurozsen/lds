@@ -39,20 +39,20 @@ export default function ThirdSection() {
         t("solutions_card2_tag4"),
       ],
     },
-    {
-      cover: "/assets/solutions/third.svg",
-      logo: "/assets/solutions/logo/third.svg",
-      name: '',
-      title: t("solutions_card3_title"),
-      desc: t("solutions_card3_desc"),
-      tags: [
-        t("solutions_card3_tag1"),
-        t("solutions_card3_tag2"),
-        t("solutions_card3_tag3"),
-        t("solutions_card3_tag4"),
-        t("solutions_card3_tag5"),
-      ],
-    },
+    // {
+    //   cover: "/assets/solutions/third.svg",
+    //   logo: "/assets/solutions/logo/third.svg",
+    //   name: '',
+    //   title: t("solutions_card3_title"),
+    //   desc: t("solutions_card3_desc"),
+    //   tags: [
+    //     t("solutions_card3_tag1"),
+    //     t("solutions_card3_tag2"),
+    //     t("solutions_card3_tag3"),
+    //     t("solutions_card3_tag4"),
+    //     t("solutions_card3_tag5"),
+    //   ],
+    // },
     {
       cover: "/assets/solutions/fourth.svg",
       logo: "/assets/solutions/logo/fourth.svg",
@@ -96,7 +96,7 @@ export default function ThirdSection() {
   ];
 
   return (
-    <section id="products" className="relative bg-[#0b0b12] text-white py-16 md:py-24" dir={dir}>
+    <section id="products" className="relative bg-[#050211] text-white py-16 md:py-24" dir={dir}>
       <div className="mx-auto max-w-[1440px] px-4">
         <div className="max-w-4xl">
           <h2 className="text-3xl md:text-4xl font-semibold leading-tight">

@@ -4,7 +4,7 @@ export default function FourthSection() {
   const { t, dir } = useI18n();
 
   return (
-    <section id="contact" className="bg-[#0b0b12] py-16 md:py-24" dir={dir}>
+    <section id="contact" className="bg-[#050211] py-16 md:py-24" dir={dir}>
       <div className="mx-auto max-w-[1440px] px-4">
         <div className="rounded-3xl overflow-hidden border border-white/10 grid grid-cols-1 lg:grid-cols-2">
 

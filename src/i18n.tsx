@@ -8,6 +8,7 @@ const en: Dict = {
     nav_services: "Services",
     nav_products: "Products",
     nav_contact: "Contact Us",
+    nav_safe_cities: "Safe City",
 
     // First Section
     first_section_title_line1: "The Digital",
@@ -129,6 +130,60 @@ const en: Dict = {
     contact_email_label: "Email us",
     contact_location: "Benghazi, Libya",
 
+    //Fifth Section
+    safe_heading: "A National Strategy for Safe Cities",
+    safe_subheading:
+        "The Cities of the Future Are Built on the Digital Transformation of Security. With a unified, intelligent, and future-ready electronic security architecture, we are shaping the security infrastructure of nations.",
+    safe_smart_prefix: "Smart",
+    safe_smart_emph: "Cities",
+    safe_smart_body:
+        "We unify cities’ security and operational efficiency needs under Smart Decision Support Systems, delivering integrated solutions seamlessly managed from a single platform",
+    safe_smart_note:
+        "UNSS, a decision support system, unifies public safety and operational management across city institutions, delivering timely information to the right units and enabling greater situational awareness. From operations centers to vehicles and field teams, UNSS delivers unified intelligence through Command, Auto, and Mobile, while Insights ensures you stay ahead of emerging risks and trends.",
+    safe_smart_img_alt: "Smart city command center",
+
+    safe_infra_prefix: "National Critical",
+    safe_infra_emph: "Infrastructure",
+    safe_infra_body:
+        "Safeguarding critical infrastructures, from power plants and water treatment facilities to telecommunications centers, is essential to ensuring national security",
+    safe_infra_note:
+        "With its open architecture, UNSS integrates resilient cameras, sensors, and access control systems to withstand environmental and physical threats. In case of breaches or risks, it triggers instant alarms, enabling rapid response and ensuring uninterrupted security operations.",
+    safe_infra_img_alt: "Critical infrastructure monitoring",
+
+
+    state_title_prefix: "State and Public",
+    state_title_emph: "Facilities",
+    state_body:
+        "Our mission is to deliver the highest levels of security and efficiency in support of government institutions, public safety, and the management of critical facilities",
+    state_note:
+        "UNSS Security Center is a unified platform for national security, designed with a cyber-focused architecture to protect data centers, border gates, and government buildings. With end-to-end encryption, advanced authentication, and redundant systems, it safeguards sensitive data while ensuring uninterrupted operations.",
+    state_img_alt: "UNSS Security Center for state and public facilities",
+
+    edu_title_prefix: "Educational",
+    edu_title_emph: "Facilities",
+    edu_body:
+        "Schools and university campuses are environments where the highest standards of safety must be guaranteed for both students and staff",
+    edu_note:
+        "With its integrated architecture, UNSS Security Center delivers smart surveillance and access control solutions for classrooms, dormitories, laboratories, and common areas. It also enhances campus safety with rapid response plans, automated alarms, and emergency notification systems.",
+    edu_img_alt: "Smart surveillance and access control for educational facilities",
+
+    airport_title_prefix: "Airport",
+    airport_title_emph: "Facilities",
+    airport_body:
+        "As vital economic gateways for cities, regions, and nations, airports demand both efficiency and security. UNSS empowers them with integrated solutions that ensure smooth operations and safe, innovative passenger experiences",
+    airport_note:
+        "From IP-based surveillance and access control to parking, passenger flow analytics, restricted area monitoring, and map-based tracking, UNSS delivers integrated solutions for secure and efficient airport operations.",
+    airport_img_alt: "Integrated security and operations for airports",
+
+    transport_title_prefix: "Transportation",
+    transport_title_emph: "Hubs",
+    transport_body:
+        "We provide integrated solutions that enhance security and efficiency across the transportation sector, from seaports to public transit networks.",
+    transport_note:
+        "With ALPR vehicle tracking, container management, access control, and real-time monitoring for public transport, UNSS enhances logistics efficiency and passenger safety, ensuring rapid response to potential threats.",
+    transport_img_alt: "Security and efficiency for transportation hubs",
+
+
     //Footer
     footer_company_title: "Libya Digital Solutions",
     footer_copyright_name: "Libya Digital Solutions, Inc.",
@@ -139,6 +194,7 @@ const ar: Dict = {
     nav_services: "الخدمات",
     nav_products: "المنتجات",
     nav_contact: "اتصل بنا",
+    nav_safe_cities: "مدينة آمنة",
 
     // First Section
     first_section_title_line1: "الرقمية",
@@ -252,6 +308,59 @@ const ar: Dict = {
         "لديك سؤال أو ترغب بمعرفة المزيد عن حلولنا؟ تواصل معنا—سيسعدنا سماعك.",
     contact_email_label: "راسلنا",
     contact_location: "بنغازي، ليبيا",
+
+    //Fifth Secction
+    safe_heading: "استراتيجية وطنية للمدن الآمنة",
+    safe_subheading:
+        "تُبنى مدن المستقبل على التحول الرقمي للأمن. من خلال بنية أمنية إلكترونية موحّدة وذكية وجاهزة للمستقبل، نحن نُشكّل البنية التحتية الأمنية للأمم.",
+    safe_smart_prefix: "مدن",
+    safe_smart_emph: "ذكية",
+    safe_smart_body:
+        "نوحّد احتياجات الأمن والكفاءة التشغيلية للمدن تحت أنظمة دعم القرار الذكية، ونقدّم حلولاً متكاملة تُدار بسلاسة من منصة واحدة",
+    safe_smart_note:
+        "تُوحِّد منصة UNSS، وهي نظام لدعم القرار، السلامة العامة والإدارة التشغيلية عبر مؤسسات المدينة، موفّرةً معلومات في الوقت المناسب للوحدات المعنية ومُمكِّنةً لوعيٍ أعلى بالموقف. ومن مراكز العمليات إلى المركبات والفرق الميدانية، تقدّم UNSS ذكاءً موحّدًا عبر Command وAuto وMobile، بينما تضمن Insights البقاء في صدارة المخاطر والاتجاهات الناشئة.",
+    safe_smart_img_alt: "مركز قيادة لمدينة ذكية",
+
+    safe_infra_prefix: "البنية التحتية",
+    safe_infra_emph: "الحرِجة الوطنية",
+    safe_infra_body:
+        "إن حماية البُنى التحتية الحرِجة—من محطات الطاقة ومرافق معالجة المياه إلى مراكز الاتصالات—أمرٌ أساسي لضمان الأمن الوطني",
+    safe_infra_note:
+        "بفضل معماريتها المفتوحة، تدمج UNSS كاميرات حسّاسة وأنظمة تحكّم بالوصول عالية الاعتمادية لمقاومة التهديدات البيئية والفيزيائية. وفي حال حدوث خروقات أو مخاطر، تُطلق إنذارات فورية تمكّن من الاستجابة السريعة وتضمن استمرارية العمليات الأمنية دون انقطاع.",
+    safe_infra_img_alt: "مراقبة البنية التحتية الحرِجة",
+
+    state_title_prefix: "المنشآت الحكومية",
+    state_title_emph: "والمرافق العامة",
+    state_body:
+        "مهمّتنا هي تقديم أعلى مستويات الأمن والكفاءة دعماً لمؤسسات الدولة والسلامة العامة وإدارة المرافق الحيوية.",
+    state_note:
+        "يُعد UNSS Security Center منصة موحّدة للأمن الوطني، صُمِّمت بهندسة تركّز على الأمن السيبراني لحماية مراكز البيانات والمعابر الحدودية والمباني الحكومية. وبفضل التشفير من الطرف إلى الطرف وآليات المصادقة المتقدّمة والأنظمة المتكرِّرة، يحمي البيانات الحسّاسة ويضمن استمرارية التشغيل دون انقطاع.",
+    state_img_alt: "UNSS للأمن في المنشآت الحكومية والمرافق العامة",
+
+    edu_title_prefix: "المنشآت",
+    edu_title_emph: "التعليمية",
+    edu_body:
+        "تُعد المدارس وحرم الجامعات بيئات يجب أن تُضمن فيها أعلى معايير السلامة للطلاب والموظفين على حد سواء.",
+    edu_note:
+        "بفضل معماريته المتكاملة، يوفّر UNSS Security Center حلول المراقبة الذكية والتحكّم بالوصول للفصول والسكنات والمختبرات والمناطق المشتركة، كما يعزّز السلامة الجامعية بخطط استجابة سريعة وإنذارات مؤتمتة وأنظمة إشعار طارئ.",
+    edu_img_alt: "مراقبة ذكية وتحكّم بالوصول للمنشآت التعليمية",
+
+    airport_title_prefix: "منشآت",
+    airport_title_emph: "المطارات",
+    airport_body:
+        "باعتبارها بوابات اقتصادية حيوية للمدن والمناطق والدول، تتطلّب المطارات الكفاءة والأمن معاً. يوفّر UNSS حلولاً متكاملة تضمن سلاسة التشغيل وتجارب ركّاب آمنة ومبتكرة.",
+    airport_note:
+        "بدءاً من المراقبة المعتمدة على بروتوكول IP والتحكّم بالوصول إلى إدارة مواقف السيارات وتحليلات تدفّق الركّاب ومراقبة المناطق المقيّدة والتتبّع المعتمد على الخرائط، يقدّم UNSS حلولاً متكاملة لتشغيل المطارات بأمان وكفاءة.",
+    airport_img_alt: "أمن وتشغيل متكامل للمطارات",
+
+    transport_title_prefix: "مراكز",
+    transport_title_emph: "النقل",
+    transport_body:
+        "نوفّر حلولاً متكاملة تعزّز الأمن والكفاءة عبر قطاع النقل، من الموانئ البحرية إلى شبكات النقل العام.",
+    transport_note:
+        "من تتبّع المركبات عبر التعرّف الآلي على لوحات السيارات (ALPR) وإدارة الحاويات والتحكّم بالوصول إلى المراقبة الفورية لوسائل النقل العام، يعزّز UNSS كفاءة الخدمات اللوجستية وسلامة الركّاب ويضمن استجابة سريعة للتهديدات المحتملة.",
+    transport_img_alt: "تعزيز أمن وكفاءة مراكز النقل",
+
 
     //Footer
     footer_company_title: "شركة ليبيا للحلول الرقمية",

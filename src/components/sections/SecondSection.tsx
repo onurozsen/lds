@@ -52,7 +52,7 @@ export default function SecondSection() {
     ];
 
     return (
-        <section id="services" className="relative py-16 md:py-24 bg-[#0b0b12] text-white overflow-hidden" dir={dir}>
+        <section id="services" className="relative py-16 md:py-24 bg-[#050211] text-white overflow-hidden" dir={dir}>
 
             <img
                 src="/assets/second-bg.svg"

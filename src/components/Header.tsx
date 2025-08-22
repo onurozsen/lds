@@ -44,6 +44,13 @@ export default function Header() {
                                     {t("nav_products")}
                                 </a>
                                 <a
+                                    href="#safe"
+                                    onClick={(e) => { e.preventDefault(); scrollTo("safe"); }}
+                                    className="hover:text-white/80 transition text-[#FEFDFE]"
+                                >
+                                    {t("nav_safe_cities")}
+                                </a>
+                                <a
                                     href="#contact"
                                     onClick={(e) => { e.preventDefault(); scrollTo("contact"); }}
                                     className="hover:text-white/80 transition text-[#FEFDFE]"
