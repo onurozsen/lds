@@ -92,7 +92,19 @@ export default function ThirdSection() {
         t("solutions_card6_tag4"),
       ],
     },
-
+    {
+      cover: "/assets/solutions/seventh.svg",
+      logo: "/assets/solutions/logo/seventh.svg",
+      name: t("solutions_card7_name"),
+      title: t("solutions_card7_title"),
+      desc: t("solutions_card7_desc"),
+      tags: [
+        t("solutions_card7_tag1"),
+        t("solutions_card7_tag2"),
+        t("solutions_card7_tag3"),
+        t("solutions_card7_tag4"),
+      ],
+    },
   ];
 
   return (

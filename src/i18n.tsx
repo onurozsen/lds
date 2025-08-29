@@ -14,7 +14,7 @@ const en: Dict = {
     first_section_title_line1: "The Digital",
     first_section_title_line2: "Gateway to the Future",
     first_section_desc:
-        "LDS is a next-generation IT company developing scalable digital solutions for Libya’s future. With international experience, we deliver e-government systems, financial platforms, and custom software—turning vision into digital reality.",
+        "LDS is a next-generation IT company developing scalable digital solutions for Libya’s future. With international experience, we deliver e-government systems, financial platforms, academic & educational infrastructures and physical security solutions—turning vision into digital reality.",
 
     //Second Section
     services_title_line1:
@@ -57,9 +57,9 @@ const en: Dict = {
     services_item8_desc:
         "Helping authorities act faster with real-time data, analytics, and automation—reducing damage, protecting citizens, and restoring services.",
     services_item9_title:
-        "Digital Competence Programs",
+        "Safe City & Physical Security Solutions",
     services_item9_desc:
-        "Comprehensive initiatives that build digital literacy and future-ready skills, empowering individuals to navigate, create, and innovate confidently in the digital world.",
+        "We provide public security systems and unified solutions by empowering cities with security intelligence and smart security technologies.",
 
 
     //Third Section
@@ -122,6 +122,14 @@ const en: Dict = {
     solutions_card6_tag3: "Visitor Management",
     solutions_card6_tag4: "Mobile",
 
+    solutions_card7_name: "",
+    solutions_card7_title: "Unified Security System ",
+    solutions_card7_desc: "UNSS is a decision support system that integrates public safety and management operations across institutions and units in city administration, provides timely information to the necessary units and provides greater situational awareness.",
+    solutions_card7_tag1: "UNSS Command",
+    solutions_card7_tag2: "UNSS Auto",
+    solutions_card7_tag3: "UNSS Mobile",
+    solutions_card7_tag4: "UNSS Insights",
+
 
     //Fourth Section
     contact_title: "Get in touch",
@@ -183,6 +191,24 @@ const en: Dict = {
         "With ALPR vehicle tracking, container management, access control, and real-time monitoring for public transport, UNSS enhances logistics efficiency and passenger safety, ensuring rapid response to potential threats.",
     transport_img_alt: "Security and efficiency for transportation hubs",
 
+    // Sixth Section
+    sixth_title: "Unified Security",
+    sixth_subtitle: "System",
+    sixth_desc: "UNSS is a decision support system that integrates public safety and management operations across institutions and units in city administration, provides timely information to the necessary units and provides greater situational awareness.",
+
+    sixth_item1_title: "UNSS Command",
+    sixth_item1_desc: "See the big picture from your operations center",
+
+    sixth_item2_title: "UNSS Auto",
+    sixth_item2_desc: "Access the same information via in-car mobile terminals",
+
+    sixth_item3_title: "UNSS Mobile",
+    sixth_item3_desc: "Exchange information with field personnel via mobile devices and terminals",
+
+    sixth_item4_title: "UNSS Insights",
+    sixth_item4_desc: "Identify trends and risks brought about by evolving events",
+
+
 
     //Footer
     footer_company_title: "Libya Digital Solutions",
@@ -200,7 +226,7 @@ const ar: Dict = {
     first_section_title_line1: "الرقمية",
     first_section_title_line2: "البوابة إلى المستقبل",
     first_section_desc:
-        "إل دي إس شركة تقنية من الجيل الجديد تطوّر حلولاً رقمية قابلة للتوسع لمستقبل ليبيا. بخبرة دولية، نقدّم أنظمة الحكومة الإلكترونية والمنصات المالية والبرمجيات المخصصة—لنحوّل الرؤى إلى واقع رقمي.",
+        "إل دي إس هي شركة تكنولوجيا معلومات من الجيل الجديد تطور حلولاً رقمية قابلة للتوسع من أجل مستقبل ليبيا. وبخبرتنا الدولية، نقدم أنظمة الحكومة الإلكترونية، المنصات المالية، البنى التحتية الأكاديمية والتعليمية، وحلول الأمن المادي—لنحوّل الرؤية إلى واقع رقمي.",
 
     //Second Section
     services_title_line1:
@@ -238,8 +264,9 @@ const ar: Dict = {
     services_item7_desc: "تسريع الابتكار من خلال تطبيق الذكاء الاصطناعي على مختلف الخدمات العامة، مع الاستثمار في المواهب المحلية والأطر الأخلاقية والبنية التحتية لضمان نمو مستدام وموثوق وشامل.",
     services_item8_title: "مبادرات الأثر السريع",
     services_item8_desc: "مساعدة السلطات على التحرك بسرعة أكبر باستخدام البيانات الفورية والتحليلات والأتمتة، مما يقلل من الأضرار ويحمي المواطنين ويعيد الخدمات.",
-    services_item9_title: "برامج الكفاءة الرقمية",
-    services_item9_desc: "مبادرات شاملة لبناء الثقافة الرقمية والمهارات المستقبلية، وتمكين الأفراد من التنقل والإبداع والابتكار بثقة في العالم الرقمي.",
+    services_item9_title: "حلول المدينة الآمنة والأمن المادي",
+    services_item9_desc: "نحن نوفر أنظمة الأمن العام والحلول الموحدة من خلال تمكين المدن بقدرات الاستخبارات الأمنية وتقنيات الأمن الذكية.",
+
 
 
     //Third Section
@@ -302,6 +329,16 @@ const ar: Dict = {
     solutions_card6_tag4: "تطبيقات الجوال",
 
 
+    solutions_card7_name: "",
+    solutions_card7_title: "نظام أمني موحد",
+    solutions_card7_desc: "UNSS هو نظام دعم اتخاذ القرار يدمج السلامة العامة وعمليات الإدارة عبر المؤسسات والوحدات في إدارة المدينة، ويوفر المعلومات اللازمة للوحدات في الوقت المناسب ويمنح رؤية أوضح للموقف.",
+    solutions_card7_tag1: "قيادة UNSS",
+    solutions_card7_tag2: "السيارة UNSS",
+    solutions_card7_tag3: "الجوال UNSS",
+    solutions_card7_tag4: "تحليلات UNSS",
+
+
+
     //Fourth Section
     contact_title: "تواصل معنا",
     contact_desc:
@@ -360,6 +397,25 @@ const ar: Dict = {
     transport_note:
         "من تتبّع المركبات عبر التعرّف الآلي على لوحات السيارات (ALPR) وإدارة الحاويات والتحكّم بالوصول إلى المراقبة الفورية لوسائل النقل العام، يعزّز UNSS كفاءة الخدمات اللوجستية وسلامة الركّاب ويضمن استجابة سريعة للتهديدات المحتملة.",
     transport_img_alt: "تعزيز أمن وكفاءة مراكز النقل",
+
+    // Sixth Section
+    sixth_title: "الأمن الموحد",
+    sixth_subtitle: "النظام",
+
+    sixth_desc: "UNSS هو نظام دعم اتخاذ القرار يدمج السلامة العامة وعمليات الإدارة عبر المؤسسات والوحدات في إدارة المدينة، ويوفر المعلومات اللازمة للوحدات في الوقت المناسب ويمنح رؤية أوضح للموقف.",
+
+    sixth_item1_title: "قيادة UNSS",
+    sixth_item1_desc: "شاهد الصورة الكاملة من مركز عملياتك",
+
+    sixth_item2_title: "السيارة UNSS",
+    sixth_item2_desc: "الوصول إلى نفس المعلومات عبر المحطات الطرفية في المركبات",
+
+    sixth_item3_title: "الجوال UNSS",
+    sixth_item3_desc: "تبادل المعلومات مع الأفراد الميدانيين عبر الأجهزة المحمولة والمحطات",
+
+    sixth_item4_title: "تحليلات UNSS",
+    sixth_item4_desc: "تحديد الاتجاهات والمخاطر الناجمة عن الأحداث المتطورة",
+
 
 
     //Footer

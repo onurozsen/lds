@@ -2,7 +2,7 @@
 <rect x="0.5" y="0.5" width="619" height="349" rx="9.5" fill="url(#pattern0_212_698)" stroke="url(#paint0_linear_212_698)"/>
 <defs>
 <pattern id="pattern0_212_698" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_212_698" transform="matrix(0.00102003 0 0 0.0031088 0.00138889 -0.00681387)"/>
+<use xlink:href="#image0_212_698" transform="matrix(0.00102003 0 0 0.00222152 0.00138889 0)"/>
 </pattern>
 <linearGradient id="paint0_linear_212_698" x1="-3.10137e-09" y1="1.90835e-07" x2="635.607" y2="-0.26004" gradientUnits="userSpaceOnUse">
 <stop stop-color="#FEFDFE" stop-opacity="0"/>
