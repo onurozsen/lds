@@ -145,7 +145,7 @@ export default function ThirdSection() {
                   </div>
                 </div>
                 <h3 className="text-lg md:text-xl font-medium text-[#FEFDFE]">{it.title}</h3>
-                <p className="mt-2 text-sm md:text-text-lg text-[#E3DFDF]">{it.desc}</p>
+                <p className="mt-2 text-sm md:text-text-lg text-[#E3DFDF] whitespace-pre-line">{it.desc}</p>
               </div>
             </article>
           ))}

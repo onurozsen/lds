@@ -71,7 +71,7 @@ export default function FifthSection() {
                     >
                         <div className="relative aspect-[16/10] w-full overflow-hidden rounded-xl ring-1 ring-white/10">
                             <img
-                                src="/assets/safe-cities/2.svg"
+                                src="/assets/safe-cities/2.png"
                                 alt={t("safe_infra_img_alt")}
                                 className="h-full w-full object-cover object-center"
                             />

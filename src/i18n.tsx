@@ -116,7 +116,7 @@ const en: Dict = {
 
     solutions_card6_name: "",
     solutions_card6_title: "Facility Management System (an RDC Partner solution)",
-    solutions_card6_desc: "The facility management platform is designed for campuses, complexes, and large-scale sites, offering a unified environment to manage tenants, visitors, assets, staff, and payments. Its flexible architecture allows it to function independently or integrate with existing systems, improving operational efficiency, oversight, and the overall stakeholder experience.",
+    solutions_card6_desc: "The Facility Management Platform is a next-generation solution built for campuses, complexes, and large-scale sites, providing a unified environment to manage tenants, visitors, assets, staff, and payments with ease. Its flexible, modular architecture allows it to function as a standalone system or integrate seamlessly with existing infrastructures, ensuring adaptability and long-term scalability. By enhancing operational efficiency, improving oversight, and fostering a smoother, more connected stakeholder experience, the platform transforms facility management from routine administration into a strategic driver of value and sustainability.",
     solutions_card6_tag1: "Tenant Management",
     solutions_card6_tag2: "Facility Management",
     solutions_card6_tag3: "Visitor Management",
@@ -124,7 +124,7 @@ const en: Dict = {
 
     solutions_card7_name: "",
     solutions_card7_title: "Unified Security System ",
-    solutions_card7_desc: "UNSS is a decision support system that integrates public safety and management operations across institutions and units in city administration, provides timely information to the necessary units and provides greater situational awareness.",
+    solutions_card7_desc: "UNSS is a decision support system that integrates public safety and management operations across institutions and units in city administration, provides timely information to the necessary units and provides greater situational awareness.\nUNSS Command: Oversee the big picture from the operations center\nUNSS Auto: Access through in-vehicle mobile terminals\nUNSS Mobile: Seamless information exchange with field staff\nUNSS Insight: Detecting emerging risks and trends through events",
     solutions_card7_tag1: "UNSS Command",
     solutions_card7_tag2: "UNSS Auto",
     solutions_card7_tag3: "UNSS Mobile",
@@ -322,7 +322,7 @@ const ar: Dict = {
 
     solutions_card6_name: "",
     solutions_card6_title: "نظام إدارة المرافق (حل من شريك RDC)",
-    solutions_card6_desc: "تم تصميم منصة إدارة المرافق للمجمعات الجامعية والمجمعات السكنية والمواقع واسعة النطاق، حيث توفر بيئة موحدة لإدارة المستأجرين والزوار والأصول والموظفين والمدفوعات. تسمح بنيتها المرنة بالعمل بشكل مستقل أو الاندماج مع الأنظمة القائمة، مما يحسن الكفاءة التشغيلية والإشراف وتجربة جميع الأطراف المعنية.",
+    solutions_card6_desc: "منصة إدارة المرافق هي حل من الجيل الجديد تم إنشاؤه خصيصًا للحرم الجامعي والمجمعات والمواقع واسعة النطاق، حيث توفر بيئة موحدة لإدارة المستأجرين والزوار والأصول والموظفين والمدفوعات بسهولة. تسمح بنيتها المرنة والموحدة النمط بأن تعمل كنظام مستقل أو أن تندمج بسلاسة مع البنى التحتية القائمة، مما يضمن القدرة على التكيف وقابلية التوسع على المدى الطويل. ومن خلال تعزيز الكفاءة التشغيلية، وتحسين الرقابة، وتسهيل تجربة أكثر سلاسة وترابطًا لأصحاب المصلحة، تعمل المنصة على تحويل إدارة المرافق من مجرد إدارة روتينية إلى محرك استراتيجي للقيمة والاستدامة.",
     solutions_card6_tag1: "إدارة المستأجرين",
     solutions_card6_tag2: "إدارة المرافق",
     solutions_card6_tag3: "إدارة الزوار",
@@ -331,7 +331,7 @@ const ar: Dict = {
 
     solutions_card7_name: "",
     solutions_card7_title: "نظام أمني موحد",
-    solutions_card7_desc: "UNSS هو نظام دعم اتخاذ القرار يدمج السلامة العامة وعمليات الإدارة عبر المؤسسات والوحدات في إدارة المدينة، ويوفر المعلومات اللازمة للوحدات في الوقت المناسب ويمنح رؤية أوضح للموقف.",
+    solutions_card7_desc: "UNSS هو نظام دعم اتخاذ القرار يدمج السلامة العامة وعمليات الإدارة عبر المؤسسات والوحدات في إدارة المدينة، ويوفر المعلومات اللازمة للوحدات في الوقت المناسب ويمنح رؤية أوضح للموقف.\nUNSS Command: الإشراف على الصورة الكاملة من مركز العمليات\nUNSS Auto: الوصول عبر端 الأجهزة المحمولة داخل المركبات\nUNSS Mobile: تبادل المعلومات بسلاسة مع فرق الميدان\nUNSS Insight: كشف المخاطر والاتجاهات الناشئة من خلال الأحداث",
     solutions_card7_tag1: "قيادة UNSS",
     solutions_card7_tag2: "السيارة UNSS",
     solutions_card7_tag3: "الجوال UNSS",
